@@ -557,3 +557,4 @@ TweenService:Create(root, TweenInfo.new(0.35, Enum.EasingStyle.Quint, Enum.Easin
 TweenService:Create(panel, TweenInfo.new(0.35), { GroupTransparency = 0 }):Play()
 
 print("[Luauvanguard Universal] UI loader ready")
+
